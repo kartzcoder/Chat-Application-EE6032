@@ -1,3 +1,9 @@
+/* 
+ * File:   mainFile.c
+ * Author: Karthik Vasisht
+ *
+ * Created on 26 February 2016, 21:30
+ */
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <netinet/in.h>
